@@ -22,12 +22,12 @@ function greet(time) {
     return "Good Morning";
   }
   
-  else if (timeItIs < 5 && timeItIs < 12) {
-    return "Good Afternoon";
+  else if (timeItIs > 12) {
+    return "Good Evening";
   }
   
   else {
-    return "Good Evening";
+    return "Good Afternoon";
   }
 }
 
