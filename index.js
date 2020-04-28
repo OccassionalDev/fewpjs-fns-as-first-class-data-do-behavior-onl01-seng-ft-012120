@@ -10,7 +10,9 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 
-function 
+function displayMessage(message) {
+  
+} 
 
 
 function greet() {
