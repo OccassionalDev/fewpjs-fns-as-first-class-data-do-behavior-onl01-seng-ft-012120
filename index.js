@@ -15,7 +15,7 @@ function displayMessage(message) {
 } 
 
 
-function greet() {
+function greet(strTime) {
   
 }
 
