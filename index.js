@@ -16,7 +16,7 @@ function displayMessage(message) {
 
 
 function greet(time) {
-  const timeItIs = time
+  const timeItIs = parseInt(time);
 }
 
 
