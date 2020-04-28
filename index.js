@@ -17,6 +17,10 @@ function displayMessage(message) {
 
 function greet(time) {
   const timeItIs = parseInt(time);
+  
+  if (timeItIs < 12) {
+    
+  }
 }
 
 
