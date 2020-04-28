@@ -16,7 +16,7 @@ function displayMessage(message) {
 
 
 function greet(strTime) {
-  
+  const timeItIs = 
 }
 
 
