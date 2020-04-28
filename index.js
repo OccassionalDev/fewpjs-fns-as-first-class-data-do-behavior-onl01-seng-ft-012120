@@ -11,7 +11,7 @@ function handleClick(e) {
 
 
 function displayMessage(message) {
-  
+  document.getElementById("greeting").innerText = message;
 } 
 
 
