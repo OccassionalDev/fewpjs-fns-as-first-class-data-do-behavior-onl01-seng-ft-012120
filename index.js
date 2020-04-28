@@ -19,7 +19,15 @@ function greet(time) {
   const timeItIs = parseInt(time);
   
   if (timeItIs < 12) {
-    
+    return "Good Morning";
+  }
+  
+  else if (timeItIs < 5 && timeItIs < 12) {
+    return "Good Afternoon";
+  }
+  
+  else {
+    return "Good Evening";
   }
 }
 
