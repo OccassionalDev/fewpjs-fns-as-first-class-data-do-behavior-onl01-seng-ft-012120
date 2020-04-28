@@ -22,7 +22,7 @@ function greet(time) {
     return "Good Morning";
   }
   
-  else if (timeItIs > 12) {
+  else if (timeItIs > 17) {
     return "Good Evening";
   }
   
